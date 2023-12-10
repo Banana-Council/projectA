@@ -1,3 +1,1 @@
-# Roadmap (still wip):
-
-![iterations](iterations.png)
+Still WIP.
